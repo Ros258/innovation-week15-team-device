@@ -7,7 +7,7 @@ void main() {
     await tester.pumpWidget(const InnovationTeamDeviceApp());
 
     expect(find.text('创新实验第15周'), findsOneWidget);
-    expect(find.text('Flutter Android 真机验收看板'), findsOneWidget);
+    expect(find.text('第10组 Flutter Android 真机验收看板'), findsOneWidget);
     expect(find.text('小组成员与 PR 分工'), findsOneWidget);
 
     await tester.drag(find.byType(ListView), const Offset(0, -500));
