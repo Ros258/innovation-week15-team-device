@@ -11,7 +11,7 @@
 | 角色 | 姓名 | 负责内容 |
 |------|------|----------|
 | 🔵 组长 | 苏再旭 | 创建原始仓库、维护 `main`、审核 PR、组织真机运行与证据提交 |
-| 🟢 成员 A | 徐洛宁 | 修改 `groupName`、`projectTitle`、`projectSlogan` |
+| 🟢 成员 A | 徐浩宁 | 修改 `groupName`、`projectTitle`、`projectSlogan` |
 | 🟢 成员 B | 马琰 | 补全 `members` 中的成员姓名与分工 |
 | 🟢 成员 C | 刘博文 | 补充 `realDeviceChecks` 中的真机运行检查项 |
 
@@ -90,5 +90,5 @@ flutter run -d <你的设备ID>
 - ✅ 证据照片必须用**第三部手机拍摄**（非本机截屏/模拟器）
 - ✅ 照片中需同时看到手持 **Android 手机** 和 Flutter **App 运行界面**
 - ✅ 真机截图已保存至 `images/android-real-device*.jpg`，并在 README 中引用展示
-- ✅ README 中填写清楚运行设备、运行方式、拍照设备留有 PR 合并记录
+- ✅ README 中填写清楚运行设备、运行方式、拍照设备，并留有 PR 合并记录
 - ✅ 提交前检查照片不包含聊天记录、手机号、定位、身份证等隐私信息
